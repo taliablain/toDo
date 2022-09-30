@@ -1,0 +1,12 @@
+body {
+    background-color: powderblue;
+    
+}
+h1 {
+    color: white;
+}
+
+.strokeme {
+    color: white;
+    text-shadow: -1px -1px 0 #323aa5, 1px -1px 0 #323aa5, -1px 1px 0  #323aa5, 1px 1px 0  #323aa5;
+}
